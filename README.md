@@ -1,1 +1,2 @@
 # StructBowlingAverageCalculator
+This program will take the 5 scores from a text file located in the same directory as the exe file and will print out the bowlers name, their 5 scores, and the average of their 5 scores. The program will read the entire text file so if someone wanted to bowl a 6th game for example, very small adjustments would need to be made to grab the 6th score and to calculate the average of the 6 scores.
